@@ -1,21 +1,6 @@
-<div align="center">
-
-<img src="./screenshots/illustration.png" alt="Job Interview" width="300" height="356.5">
-
-# Django Job Portal
-
-</div>
-
 ## Django Job Portal
 
 #### An open source online job portal.
-
-<p align="center">
-    <img alt="forks" src="https://img.shields.io/github/forks/manjurulhoque/django-job-portal?label=Forks&style=social"/>
-    <img alt="stars" src="https://img.shields.io/github/stars/manjurulhoque/django-job-portal?style=social"/>
-    <img alt="watchers" src="https://img.shields.io/github/watchers/manjurulhoque/django-job-portal?style=social"/>
-    <img alt="github Actions" src="https://github.com/manjurulhoque/django-job-portal/workflows/job-portal/badge.svg"/>
-</p>
 
 Live: [Demo](http://djp.manjurulhoque.com/en/)
 
@@ -103,6 +88,3 @@ Used Tech Stack
 #### To dump data:
 ``python manage.py dumpdata --format=json --indent 4 app_name > app_name/fixtures/app_name_initial_data.json``
 
-![Analytics](https://repobeats.axiom.co/api/embed/2ed66773eb8b3acef70bc808ddc6701253f2fc09.svg "Repobeats analytics image")
-
-Show your support by 🌟 the project!!
