@@ -15,7 +15,6 @@ Used Tech Stack
 <img src="screenshots/one.png" height="800">
 
 ## Resume template page
-<img src="screenshots/six.png" height="800">
 <img src="screenshots/seven.png" height="800">
 
 ## Login page
