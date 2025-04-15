@@ -9,11 +9,11 @@ class TestEmployeeRegistrationForm(TestCase):
 
     def setUp(self) -> None:
         self.valid_user = {
-            "first_name": "Manjurul",
-            "last_name": "Hoque",
+            "first_name": "Pallavi",
+            "last_name": "Kailas",
             "role": "employee",
-            "gender": "male",
-            "email": "rumi1@gmail.com",
+            "gender": "female",
+            "email": "pallavi@gmail.com",
             "password1": "123456",
             "password2": "123456",
         }
